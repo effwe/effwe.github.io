@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap');
+
+
+
+.navbar{
+    color: blue;
+    font-size: 100px;
+}
+
+.navbar1{
+    font-family: 'Noto Sans TC', sans-serif;
+    color: blue;
+    font-size: 100px;
+    font-weight: 900;
+}
